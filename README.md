@@ -1,6 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditya Kumawat
-Programmer. Troubleshooter. Contributor
-Learning things as I feel the need to according to my projects. Trying to contribute to the open source community to improve my career.* 🌍  I'm based in India* 🖥️  See my portfolio at [super](http://adityakumawat.super.site)* ✉️  You can contact me at [adityakumawat502@gmail.com](mailto:adityakumawat502@gmail.com)* 🧠  I'm learning Django, Development Pipelines, and RNNs
+Hi 👋 My name is Aditya Kumawat
+===============================Programmer. Troubleshooter. Contributor.----------------------------------------Learning things as I feel the need to according to my projects. Trying to contribute to the open source community to improve my career.* 🌍  I'm based in India* 🖥️  See my portfolio at [super](http://adityakumawat.super.site)* ✉️  You can contact me at [adityakumawat502@gmail.com](mailto:adityakumawat502@gmail.com)* 🧠  I'm learning Django, Development Pipelines, and RNNs
 
 <a href="https://www.github.com/aad1tya" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/aad1tya?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/aditya_ooo_" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitter/follow/aditya_ooo_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
@@ -22,3 +21,7 @@ src="https://img.shields.io/github/followers/aad1tya?logo=github&style=for-the-b
 <a href="http://www.github.com/aad1tya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aad1tya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/aad1tya"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=aad1tya&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
