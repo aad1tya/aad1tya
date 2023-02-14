@@ -9,7 +9,7 @@ Learning things as I feel the need to according to my projects. Trying to contri
 * 🧠  I'm learning Django, Development Pipelines, and RNNs
 
 <a href="https://www.github.com/aad1tya" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/aad1tya?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <a href="https://www.twitter.com/aditya_ooo_" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitter/follow/aditya_ooo_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+src="https://img.shields.io/github/followers/aad1tya?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <a href="https://www.twitter.com/aditya_ooo_" target="_blank" rel="noreferrer"> <imgsrc="https://img.shields.io/twitter/follow/aditya_ooo_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
 ### Skills
 
